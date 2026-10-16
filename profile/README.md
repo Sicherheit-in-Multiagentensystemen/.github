@@ -14,6 +14,7 @@
 | --- | --- |
 | 分类文献、引用与证据矩阵 | [文献库](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/tree/main/papers) |
 | 文献整理、威胁建模与评测框架 | [研究框架](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/tree/main/frameworks) |
+| 串谋与联盟行为审计 | [Colosseum 专题框架](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/blob/main/frameworks/COLOSSEUM_AUDIT.md) |
 | 官方指南、协议和开源基准 | [研究资料](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/tree/main/resources) |
 | 阅读卡片、实验、周报和综述模板 | [文本模板](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/tree/main/templates) |
 | 入门与选题 | [阅读路线](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/blob/main/docs/READING_PATH.md) · [研究计划](https://github.com/Sicherheit-in-Multiagentensystemen/multi-agent-security-research/blob/main/docs/ROADMAP.md) |
@@ -22,4 +23,4 @@
 
 追溯原始来源，区分预印本与已核验发表信息；明确区分论文作者报告、整理者解读与独立复现结果。新增文献时同时记录系统假设、攻击者能力、评测条件和局限。
 
-首批资料整理于 2026-10-16，收录 24 篇文献。当前核查深度为元数据与摘要，尚未在本组织完成复现实验。
+首批资料整理于 2026-10-16，当前收录 25 篇文献。全部条目至少完成元数据与摘要核查；Colosseum 另核对方法、指标、局限及项目说明。尚未在本组织完成复现实验。
